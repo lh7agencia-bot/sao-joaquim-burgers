@@ -1,0 +1,6 @@
+{
+  "name": "São Joaquim Burguers",
+  "description": "Hamburgueria artesanal na Liberdade, São Paulo. Sabor desafiador em cada mordida. Cardápio digital, galeria de fotos, agendamento online e contato direto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
